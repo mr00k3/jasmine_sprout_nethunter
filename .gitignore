@@ -139,6 +139,7 @@ kernel/configs/android-*.cfg
 
 # Build scripts
 /build-scripts
+/kali-nethunter-kernel-builder
 
 # Build directories
 /out
